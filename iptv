@@ -1,11 +1,27 @@
-#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="Malaysia",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:0  tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:0  tvg-id="106" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="Malaysia",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:0  tvg-id="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
+#EXTM3U #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1 
+http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8 http://185.180.221.194:8277/streams/d/TV1/playlist.m3u8 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8 
+
+
+#EXTINF:0 tvg-id="106" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="Malaysia",Astro Oasis 
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8 http://185.180.221.194:8277/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria 
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8 http://185.180.221.194:8277/streams/d/Ceria/playlist.m3u8 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",VAANAVIL 
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/201163
+
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",DISNEY CHANNEL 
+http://185.180.221.194:8277/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",FOOD NETWORK 
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/196454 
+
+
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",&FLIX HD 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/45506
+
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="",MTV 
+http://198.16.106.61:8277/streams/d/mtvlive_zero/playlist.m3u8 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157555 
+
+
